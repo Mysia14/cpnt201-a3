@@ -5,8 +5,8 @@
 
 
 ### Links to:
-* GH repo: https://github.com/Mysia14/cpnt201-a2
-* GH Pages site:  https://mysia14.github.io/cpnt201-a2/
+* GH repo: https://github.com/Mysia14/cpnt201-a3
+* GH Page site:  https://mysia14.github.io/cpnt201-a3/
 
 
 
