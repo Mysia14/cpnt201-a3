@@ -1,0 +1,80 @@
+body {
+    background-color: #b1b1b9;
+}
+
+.logos {
+    display: flex;
+}
+
+
+/* Heart 1 */
+
+.big-heart-1 {
+    fill: #8b0000;
+}
+
+.small-heart-1 {
+    fill: #ff0000;
+    filter: blur(4px);
+}
+
+.heart-line-1 {
+    stroke: #8b0000;
+    filter: blur(.3px);
+    stroke-dasharray: 100%;
+    stroke-dashoffset: 200%;
+    animation: lifeline 2.5s linear infinite;
+}
+
+
+/* Heart 2 */
+
+.big-heart-2 {
+    fill: #340744;
+    filter: drop-shadow(0px 0px 3px #741AAC);
+}
+
+.small-heart-2 {
+    fill: #741AAC;
+    animation: pulse 1s cubic-bezier(0.18, 1.89, 0.32, 0.28) infinite;
+}
+
+.heart-line-2 {
+    stroke: #340744;
+}
+
+
+/* Heart 3 Start */
+
+.big-heart-3 {
+    fill: #000000;
+}
+
+.small-heart-3 {
+    fill: #F41F4E;
+    filter: drop-shadow(0px 0px 4px #F41F4E);
+}
+
+.heart-line-3 {
+    stroke: #000000;
+}
+
+
+/* key Frames */
+
+@keyframes pulse {
+    0%,
+    100% {
+        stroke: #741AAC;
+        filter: blur(1px);
+    }
+    50% {
+        stroke: #340744;
+    }
+}
+
+@keyframes lifeline {
+    to {
+        stroke-dashoffset: 0;
+    }
+}
