@@ -14,8 +14,7 @@
 * Logo link:https://www.figma.com/file/FN5fGBdWFDc7Ij2QIkXSEA/MICKEY.TRIP.LOGO?node-id=2%3A5 - Made using Figma
 
 
-* Fesal:
-- Got some help from Fesal who has explained to me what we supposed to do as I was not understanding the instructions.
+* Fesal: Got some help from Fesal who has explained to me what we supposed to do as I was not understanding the instructions.
 
 
 
